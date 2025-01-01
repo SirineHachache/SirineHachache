@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @SirineHachache
 - 👀 I’m interested in learning new tech tips and learning languages
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning flutter and enhancing my web dev skills !
 
 
 <!---
